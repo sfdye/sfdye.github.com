@@ -3,8 +3,8 @@
 https://sfdye.com
 
 - Powered by [jekyll]
-- [Minimal Mistakes] theme
-- Hosted on [netlify]
+- jekyll theme by [Minimal Mistakes]
+- Free static site hosting by [netlify]
 
 [jekyll]: https://jekyllrb.com/
 [Minimal Mistakes]: https://github.com/mmistakes/minimal-mistakes/
