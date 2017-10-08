@@ -614,7 +614,7 @@ A    @           12.34.56.78
 
 改好后效果如下
 
-![Godaddy setup]({{ site.url }}/images/godaddy.png)
+![Godaddy setup](/assets//images/godaddy.png)
 
 一般需要24小时到48小时来生效。（因为需要在整个互联网传播，实际上通常几个小时就好了）
 
@@ -628,7 +628,7 @@ $ whois your_domain.com
 
 今后修改DNS只需到Digital Ocean的管理页面设置即可。对于每一个app，同样是添加一条A record。
 
-![Digital Ocean DNS配置]({{ site.url }}/images/do_dns.png) 
+![Digital Ocean DNS配置](/assets//images/do_dns.png) 
 
 <!-- ### VPS配置（虚拟内存, 自动运行mysql） -->
 

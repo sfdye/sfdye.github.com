@@ -30,11 +30,32 @@ markdown: kramdown
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+      
 plugins:
   - jekyll-feed
 
 # Minimal mistakes configurations
 name: Wan Liuyang
+
+author:
+  name   : "Wan Liuyang"
+  avatar : "/assets/images/avatar.jpg"
+  bio    : "Latte-driven, Python & Django Developer"
+  email  : t@sfdye.com
+  uri    : "https://sfdye.com"
 
 twitter:
   username: "sfdye"
@@ -50,6 +71,7 @@ comments:
     shortname: "sfdye"
 
 paginate: 5
+timezone: Asia/Singapore
 
 
 
