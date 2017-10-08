@@ -1,14 +1,15 @@
 ---
-layout: single
-category:
-  - articles
-title: "管理多Python环境之Virtualenv与Virtualenvwrapper"
-modified: 2014-04-04 17:23:25 +0800
+title: 管理多Python环境之Virtualenv与Virtualenvwrapper
+date: 2014-04-04 00:00:00 +08:00
+categories:
+- articles
 tags:
-  - django
-  - python
-  - virtualenv
-  - virtualenvwrapper
+- django
+- python
+- virtualenv
+- virtualenvwrapper
+layout: single
+modified: 2014-04-04 17:23:25 +08:00
 comments: true
 share: true
 ---

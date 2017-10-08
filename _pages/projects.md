@@ -1,6 +1,6 @@
 ---
+permalink: "/projects/"
 layout: single
-permalink: /projects/
 ---
 
 ## Hacking
