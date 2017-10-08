@@ -1,19 +1,20 @@
 ---
-layout: single
-category:
-    - articles
-title: "Django最佳实践与部署：Nginx + Gunicorn + Supervisor（Ubuntu和CentOS）"
-modified: 2014-03-15 13:43:01 +0800
+title: Django最佳实践与部署：Nginx + Gunicorn + Supervisor（Ubuntu和CentOS）
+date: 2014-03-09 00:00:00 +08:00
+categories:
+- articles
 tags:
-    - django
-    - best practice
-    - nginx
-    - gunicorn
-    - supervisor
-    - ubuntu
-    - centos
+- django
+- best practice
+- nginx
+- gunicorn
+- supervisor
+- ubuntu
+- centos
+layout: single
+modified: 2014-03-15 13:43:01 +08:00
 header:
-  image: /assets/images/django-demo.png
+  image: "/assets/images/django-demo.png"
 comments: true
 share: true
 ---

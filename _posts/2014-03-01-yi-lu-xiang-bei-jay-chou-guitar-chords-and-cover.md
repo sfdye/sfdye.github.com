@@ -1,16 +1,17 @@
 ---
-layout: single
-title: "自己扒的《一路向北》吉他谱"
-category:
-  - articles
-modified: 2014-03-01 21:41:08 +0800
+title: 自己扒的《一路向北》吉他谱
+date: 2014-03-01 00:00:00 +08:00
+categories:
+- articles
 tags:
-  - guitar 
-  - music
-  - chords
-  - jay chou
+- guitar
+- music
+- chords
+- jay chou
+layout: single
+modified: 2014-03-01 21:41:08 +08:00
 image:
-  feature: /assets/images/initial-d.jpg
+  feature: "/assets/images/initial-d.jpg"
   credit: Media Asia Films(BVI) Ltd.
 comments: true
 share: true

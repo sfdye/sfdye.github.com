@@ -1,11 +1,13 @@
 ---
-layout: single
-category: articles
-title: "如何使用Sublime Text编辑远程文件"
-modified: 2014-03-28 20:53:39 +0800
+title: 如何使用Sublime Text编辑远程文件
+date: 2014-03-28 00:00:00 +08:00
+categories:
+- articles
 tags:
-  - sublime text
-  - ssh
+- sublime text
+- ssh
+layout: single
+modified: 2014-03-28 20:53:39 +08:00
 comments: true
 share: true
 ---
