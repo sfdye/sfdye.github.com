@@ -33,7 +33,7 @@ markdown: kramdown
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
-permalink: /:categories/:year/:month/:day/:title
+permalink: pretty
 
 # Front Matter Defaults
 defaults:
