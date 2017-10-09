@@ -1,5 +1,6 @@
 ---
 title: Creating your personal static blogs in 30 minutes
+date: 2017-10-09 00:00:00 +08:00
 layout: single
 author_profile: true
 comments: true
