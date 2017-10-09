@@ -38,10 +38,13 @@ plugins:
 name: Wan Liuyang
 author:
   name: Wan Liuyang
+  location: Singapore
   avatar: "/assets/images/avatar.jpg"
   bio: Latte-driven, Python & Django Developer
   email: t@sfdye.com
-  uri: https://sfdye.com
+  github: sfdye
+  twitter: sfdye
+  weibo: 5042410848
 twitter:
   username: sfdye
 analytics:
