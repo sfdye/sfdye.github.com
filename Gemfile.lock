@@ -119,6 +119,7 @@ DEPENDENCIES
   jekyll (~> 3.6.0)
   jekyll-admin (~> 0.7.0)
   jekyll-feed (~> 0.6)
+  jekyll-sitemap (~> 1.1.1)
   minimal-mistakes-jekyll
   tzinfo-data
 
