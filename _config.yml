@@ -50,7 +50,7 @@ author:
 twitter:
   username: sfdye
 facebook:
-  username: liuyangwan1
+  username: liuyang.wan
 analytics:
   provider: google-universal
   google:
@@ -61,7 +61,7 @@ comments:
     shortname: sfdye
 paginate: 5
 words_per_minute: 150
-og_image: /assets/images/fish.jgp
+og_image: /assets/images/fish.jpg
 category_archive:
   type: jekyll-archives
   path: /categories/
