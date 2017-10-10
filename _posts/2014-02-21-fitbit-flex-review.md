@@ -1,7 +1,7 @@
 ---
 title: 我的Fitbit Flex评测
 date: 2014-02-21 00:00:00 +08:00
-category:
+categories:
 - Tech
 tags:
 - Fitbit
