@@ -61,7 +61,7 @@ comments:
     shortname: sfdye
 paginate: 5
 words_per_minute: 150
-og_image: /assets/images/fish.jpg
+og_image: "/assets/images/fish.jpg"
 category_archive:
   type: jekyll-archives
   path: "/categories/"
