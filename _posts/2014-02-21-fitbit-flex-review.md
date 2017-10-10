@@ -1,10 +1,12 @@
 ---
 title: 我的Fitbit Flex评测
 date: 2014-02-21 00:00:00 +08:00
+category:
+- Tech
 tags:
-- fitbit
-- flex
-- review
+- Fitbit
+- Flex
+- Review
 layout: single
 header:
   image: "/assets/images/flex.png"

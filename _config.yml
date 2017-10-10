@@ -32,10 +32,11 @@ github_username: sfdye
 markdown: kramdown
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: default
-permalink: pretty
+permalink: /:year/:month//:title
 plugins:
 - jekyll-feed
 - jekyll-sitemap
+- jekyll-archives
 name: Wan Liuyang
 author:
   name: Wan Liuyang
@@ -48,6 +49,8 @@ author:
   weibo: 5042410848
 twitter:
   username: sfdye
+facebook:
+  username: liuyangwan1
 analytics:
   provider: google-universal
   google:
@@ -58,3 +61,20 @@ comments:
     shortname: sfdye
 paginate: 5
 words_per_minute: 150
+og_image: /assets/images/fish.jgp
+category_archive:
+  type: jekyll-archives
+  path: /categories/
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/

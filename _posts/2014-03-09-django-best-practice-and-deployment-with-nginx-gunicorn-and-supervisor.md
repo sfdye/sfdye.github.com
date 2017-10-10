@@ -2,15 +2,15 @@
 title: Django最佳实践与部署：Nginx + Gunicorn + Supervisor（Ubuntu和CentOS）
 date: 2014-03-09 00:00:00 +08:00
 categories:
-- articles
+- Tech
 tags:
-- django
-- best practice
-- nginx
-- gunicorn
-- supervisor
-- ubuntu
-- centos
+- Django
+- Best practice
+- Nginx
+- Gunicorn
+- Supervisor
+- Ubuntu
+- Centos
 layout: single
 modified: 2014-03-15 13:43:01 +08:00
 header:

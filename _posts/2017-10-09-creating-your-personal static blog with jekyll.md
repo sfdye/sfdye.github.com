@@ -1,10 +1,14 @@
 ---
 title: Creating your personal static blog with jekyll
 date: 2017-10-09 00:00:00 +08:00
+category:
+- Tech
 tags:
-- jekyll
-- blog
-- tutorial
+- Mac
+- Ruby
+- Jekyll
+- Blog
+- Tutorial
 layout: single
 author_profile: true
 read_time: true

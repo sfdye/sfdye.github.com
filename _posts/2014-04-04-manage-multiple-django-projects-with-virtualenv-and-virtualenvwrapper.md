@@ -2,12 +2,12 @@
 title: 管理多Python环境之Virtualenv与Virtualenvwrapper
 date: 2014-04-04 00:00:00 +08:00
 categories:
-- articles
+- Tech
 tags:
-- django
-- python
-- virtualenv
-- virtualenvwrapper
+- Django
+- Python
+- Virtualenv
+- Virtualenvwrapper
 layout: single
 modified: 2014-04-04 17:23:25 +08:00
 comments: true

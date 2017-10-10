@@ -2,12 +2,11 @@
 title: 自己扒的《一路向北》吉他谱
 date: 2014-03-01 00:00:00 +08:00
 categories:
-- articles
+- Music
 tags:
-- guitar
-- music
-- chords
-- jay chou
+- Guitar
+- Chords
+- Jay Chou
 layout: single
 modified: 2014-03-01 21:41:08 +08:00
 image:

@@ -2,10 +2,9 @@
 title: 解决Cubase在Retina Mackbook Pro下运行无响应的办法
 date: 2013-11-09 00:00:00 +08:00
 categories:
-- articles
+- Music
 tags:
 - Mac
-- Music
 - Cubase
 layout: single
 comments: true
