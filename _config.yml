@@ -22,10 +22,8 @@ defaults:
 include:
 - _pages
 email: t@sfdye.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-baseurl: ''
+description: Liuyang's blog
+baseurl: 
 url: https://sfdye.com
 twitter_username: sfdye
 github_username: sfdye
@@ -42,7 +40,7 @@ author:
   name: Wan Liuyang
   location: Singapore
   avatar: "/assets/images/avatar.jpg"
-  bio: Latte-driven, Python & Django Developer
+  bio: "(Café) Latte-driven, Python & Django Developer"
   email: t@sfdye.com
   github: sfdye
   twitter: sfdye
