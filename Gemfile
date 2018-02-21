@@ -22,7 +22,7 @@ gem "minimal-mistakes-jekyll"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.9"
   gem 'jekyll-admin', "~> 0.7.0"
-  gem 'jekyll-sitemap', "~> 1.1.1"
+  gem 'jekyll-sitemap', "~> 1.2.0"
   gem 'jekyll-archives', "~> 2.1.1"
 end
 
