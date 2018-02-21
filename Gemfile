@@ -13,6 +13,8 @@ gem "jekyll", "~> 3.7.2"
 # Use theme "minimal-mistakes-jekyll"
 gem "minimal-mistakes-jekyll"
 
+# GitHub-flavored Emoji 
+gem "jemoji"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
