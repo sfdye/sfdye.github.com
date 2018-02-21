@@ -1,7 +1,7 @@
 ---
 title: Creating your personal static blog with jekyll
 date: 2017-10-09 00:00:00 +08:00
-modified: 2018-02-21 17:30:25 +08:00
+last_modified_at: 2018-02-21 17:30:25 +08:00
 categories:
 - Tech
 tags:
@@ -217,6 +217,14 @@ Jekyll-admin is only meant for local development. When you deploy your site for 
 There is hosted solution [siteleaf][siteleaf]. It's officially recommended by jekyll-admin. I suggest you to check it out. Note that there are some known issues like siteleaf will strip all comments in the `_config.yml`.
 
 _With that, thanks for reading. Leave a comment if you have any questions._
+
+### Update (2018-02-21)
+
+If you are getting annoying emails from GitHub, which does not provide a unsubscribe button.
+
+> You are attempting to use a Jekyll theme, "minimal-mistakes-jekyll", which is not supported by GitHub Pages.
+
+You can disable this by deleting both the `master` and `gh-page` branch and create a new branch called `deploy`, then on netlify assign `deploy` as the production deploy branch.
 
 [jekyll]: https://jekyllrb.com
 [netlify]: https://www.netlify.com/

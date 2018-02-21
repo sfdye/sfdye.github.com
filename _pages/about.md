@@ -1,7 +1,7 @@
 ---
 permalink: "/about/"
 layout: single
-modified: 2014-02-22 08:00:00 +08:00
+last_modified_at: 2014-02-22 08:00:00 +08:00
 ---
 
 I study Computer Science at Nanyang Technological University, Singapore.
