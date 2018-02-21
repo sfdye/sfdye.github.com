@@ -1,6 +1,7 @@
 ---
 title: Creating your personal static blog with jekyll
 date: 2017-10-09 00:00:00 +08:00
+modified: 2018-02-21 17:30:25 +08:00
 categories:
 - Tech
 tags:
@@ -17,19 +18,19 @@ share: true
 related: true
 ---
 
-By the end of this tutorial, you will have your own personal blog:
+By the end of this tutorial, you will have your own personal blog :tada:
 
-- Created by [static site generator][staticgen]
-- Hosted for free on [netlify][netlify]
-- Custom domain like *yourdomain.com*
-- Secured by HTTPS by [Let's Encrypt][letsencrypt]
+* Created by [static site generator][staticgen]
+* Hosted for free on [netlify][netlify]
+* Custom domain like _yourdomain.com_
+* Secured by HTTPS by [Let's Encrypt][letsencrypt]
 
 ## Tools used in this tutorial
 
-- [jekyll][jekyll]
-- [rbenv][rbenv] (for managing ruby environment)
-- a text editor (Sublime Text  or vscode)
-- (optional) a domain of your own, purchased separately from sites like GoDaddy
+* [jekyll][jekyll]
+* [rbenv][rbenv] (for managing ruby environment)
+* a text editor (Sublime Text or vscode)
+* (optional) a domain of your own, purchased separately from sites like GoDaddy
 
 ## Environment setup
 
@@ -105,7 +106,7 @@ $ bundle exec jekyll serve
 
 Here you go, you have your first jekyll site up and running at `http://localhost:4000`.
 
-Note that changes made are automatically reloaded, so you don't have to re-start the server. (not applicable to*_config.yml*)
+Note that changes made are automatically reloaded, so you don't have to re-start the server. (not applicable to*\_config.yml*)
 
 ## Install the minimal mistakes theme
 
@@ -148,7 +149,6 @@ git remote add origin git@github.com/USERNAME/USERNAME.github.com.git
 git add .
 git commit -m "First commit, Jekyll is awesome"
 git push -u origin master
-
 ```
 
 Now, your jekyll app should be immediately viewable at `http://USERNAME.github.com` after installation has finished on the servery behind GitHub Pages. But we are not going to use this GitHub Pages for hosting. I will discuss why on the next part.
@@ -192,7 +192,6 @@ sfdye.com.		3600	IN	NS	dns1.p02.nsone.net.
 sfdye.com.		3600	IN	NS	dns2.p02.nsone.net.
 sfdye.com.		3600	IN	NS	dns3.p02.nsone.net.
 sfdye.com.		3600	IN	NS	dns4.p02.nsone.net.
-
 ```
 
 Once Netlify is managing your domain name, go to the `SSL/TLS certificate` setting and enable HTTPS. Behind the scene, it's using [Let's Encrypt][letsencrypt] which is a free SSL certificate provider.
@@ -217,7 +216,7 @@ Jekyll-admin is only meant for local development. When you deploy your site for 
 
 There is hosted solution [siteleaf][siteleaf]. It's officially recommended by jekyll-admin. I suggest you to check it out. Note that there are some known issues like siteleaf will strip all comments in the `_config.yml`.
 
-*With that, thanks for reading. Leave a comment if you have any questions.*
+_With that, thanks for reading. Leave a comment if you have any questions._
 
 [jekyll]: https://jekyllrb.com
 [netlify]: https://www.netlify.com/
@@ -227,6 +226,7 @@ There is hosted solution [siteleaf][siteleaf]. It's officially recommended by je
 [mmistakes]: https://mmistakes.github.io/minimal-mistakes/
 [minima]: https://github.com/jekyll/minima
 [mmistakes-guide]: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#starting-from-jekyll-new
+
 [index.html]: https://github.com/mmistakes/minimal-mistakes/blob/master/index.html]
 [staticgen]: https://davidwalsh.name/introduction-static-site-generators
 [letsencrypt]: https://letsencrypt.org/
