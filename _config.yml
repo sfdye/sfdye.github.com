@@ -57,7 +57,7 @@ analytics:
 comments:
   provider: disqus
   disqus:
-    shortname: sfdye
+    shortname: liuyang
 paginate: 5
 words_per_minute: 150
 og_image: "/assets/images/fish.jpg"
