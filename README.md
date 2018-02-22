@@ -1,5 +1,7 @@
 # My personal blog
 
+Depreciated. See https://github.com/sfdye/sfdye.com
+
 ## Features
 
 - Powered by [jekyll]
