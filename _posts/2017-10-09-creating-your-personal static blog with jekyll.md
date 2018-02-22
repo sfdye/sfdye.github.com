@@ -15,6 +15,7 @@ author_profile: true
 read_time: true
 share: true
 related: true
+comments: true
 ---
 
 By the end of this tutorial, you will have your own personal blog :tada:

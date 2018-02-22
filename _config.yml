@@ -54,10 +54,11 @@ analytics:
   provider: google-universal
   google:
     tracking_id: UA-107754442-1
+repository: sfdye/sfdye.github.com
 comments:
-  provider: disqus
-  disqus:
-    shortname: liuyang
+  provider: staticman_v2
+staticman:
+  branch: deploy
 paginate: 5
 words_per_minute: 150
 og_image: "/assets/images/fish.jpg"
