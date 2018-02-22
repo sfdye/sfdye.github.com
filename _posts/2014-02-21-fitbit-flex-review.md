@@ -7,12 +7,9 @@ tags:
 - Fitbit
 - Flex
 - Review
-layout: single
 header:
   image: "/assets/images/flex.png"
   caption: Fitbit Inc.
-comments: true
-share: true
 ---
 
 ## Fitbit Flex

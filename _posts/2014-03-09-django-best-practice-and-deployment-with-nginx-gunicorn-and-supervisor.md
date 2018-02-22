@@ -11,12 +11,9 @@ tags:
 - Supervisor
 - Ubuntu
 - Centos
-layout: single
 last_modified_at: 2014-03-15 13:43:01 +08:00
 header:
   image: "/assets/images/django-demo.png"
-comments: true
-share: true
 ---
 
 ## 题头

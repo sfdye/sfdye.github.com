@@ -6,9 +6,6 @@ categories:
 tags:
 - Mac
 - Cubase
-layout: single
-comments: true
-share: true
 ---
 
 本方案在 

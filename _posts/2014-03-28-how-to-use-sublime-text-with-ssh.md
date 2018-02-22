@@ -6,10 +6,7 @@ categories:
 tags:
 - Sublime text
 - Ssh
-layout: single
 last_modified_at: 2014-03-28 20:53:39 +08:00
-comments: true
-share: true
 ---
 
 对于我这个Vim使用起来还不太顺手的人来说，能用Sublime Text来编辑远程服务器上的文件简直就是福音。
